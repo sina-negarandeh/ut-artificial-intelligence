@@ -1,3 +1,6 @@
+[submodule "search-algorithms"]
+	path = search-algorithms
+	url = https://github.com/sina-negarandeh/gandalf-quest
 [submodule "genetic-algorithms"]
 	path = genetic-algorithms
 	url = https://github.com/sina-negarandeh/genetic-algorithms-logic-circuit
